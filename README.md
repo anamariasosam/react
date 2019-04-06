@@ -2,6 +2,10 @@
 
 1. ¿Cómo instalarlo?
 2. ¿Cómo crear un proyecto?
+
+`npx create-react-app my-app`
+
+
 3. ¿Cómo crear un componente?
 4. Tipos de componentes
 5. Estado de las componentes
