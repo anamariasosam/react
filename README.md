@@ -2,22 +2,11 @@
 
 1. ¿Cómo instalarlo?
 2. ¿Cómo crear un proyecto?
-
-`npx create-react-app my-app`
-
-
 3. ¿Cómo crear un componente?
 4. Tipos de componentes
-
-- Stateful, Stateless, Pure Components, HOC
 5. Estado de las componentes
-- constructor
-- componentDidMount
-- componentDidUpdate
-- render
 6. ¿Cómo añadir css?
 7. ¿Cómo se maneja la navegación a varias páginas?
-react-router-dom
 8. ¿Cómo se comparten propiedades entre componentes?
 9. ¿Existe alguna forma de crear aplicaciones nativas?
 10. DevTools
